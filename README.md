@@ -1,9 +1,8 @@
 # Day 21 Lecture 
 ## Monday 6 Jan 2025
 
-GET /games
+Basic SQL Querying Using bgg Database 
 
-GET /games?limit=`<INTEGER>`
+### **GET /games**
 
-- Practice getting games entries from database 
-- Uses bgg database
+### **GET /games?limit=`<int>`**
